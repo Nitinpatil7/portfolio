@@ -127,7 +127,7 @@ const Home = () => {
     lg:w-[300px] lg:h-[300px] 
     xl:w-[500px] xl:h-[500px]
               "
-              src="/profile.jpg"
+              src="/profile.jpeg"
               alt="Nitin Profile Picture"
               height={350}
               width={350}
